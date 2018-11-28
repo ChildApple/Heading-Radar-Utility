@@ -2,6 +2,7 @@
 Movable and resizable heading overlay to make vectoring aircraft on FSX easier.
 
 How to use
+
 1.- unzip file and maintain directory structure
 
 2.- run Overlay.exe
